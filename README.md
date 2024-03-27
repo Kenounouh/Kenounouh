@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kenounouh
+- 👋 Hi, I’m @Kenounouh Lavoisier
 - 👀 I’m interested in Computational Physics in general
 - 🌱 I’m currently learning Projective Quantum Monte Carlo (PQMC) algorithm
 - 💞️ I’m looking to collaborate on how to use PQMC on non-Hermitian systems
